@@ -6,6 +6,7 @@
   </a>
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 ## Pop Design
 
 A visually appealing Pop Design component created using HTML, CSS, and JavaScript. This design can be used to display pop-up messages, notifications, or other content in a stylish and responsive manner.
@@ -40,7 +41,7 @@ A visually appealing Pop Design component created using HTML, CSS, and JavaScrip
 No external dependencies are required. Clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Akki-soni/Pop-Up-Design.git
 cd pop-design
 open index.html
 ```
