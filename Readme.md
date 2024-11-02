@@ -7,7 +7,7 @@
 </p>
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h1 align="center">Notes App</h1>
+<h1 align="center">Pop Design</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML Badge">
@@ -16,15 +16,16 @@
 </p>
 
 <p align="center">
-  This is a simple Notes App built using HTML, CSS, and JavaScript. It allows users to create, view, edit, and delete notes. The application saves the notes in the browser's local storage, so they persist even after the page is refreshed.
+  A visually appealing Pop Design component created using HTML, CSS, and JavaScript. This design can be used to display pop-up messages, notifications, or other content in a stylish and responsive manner.
 </p>
 
 ## 🚀 Features
 
-- **_Add new notes with a title and content._**
-- **_Edit or delete existing notes._**
-- **_Notes are saved automatically in local storage._**
-- **_Responsive design for mobile and desktop use._**
+- ***A pop-up design that appears smoothly on user interaction.***
+- ***Customizable content within the pop-up.***
+- ******
+- ******
+- ******
 
 ## 🛠️ Technologies Used
 
@@ -113,23 +114,16 @@ Thank you for exploring the StopWatch! Your feedback is valuable. If you have an
 
 
 
-<p align="center">
-  <b style="color: blue;  ">Visitor count</b>
-  <br>
-  <a style="" href="https://github.com/Akki-soni">
-  <img src="https://komarev.com/ghpvc/?username=akki-soni&label=Profile%20views&color=0e75b6&style=flat" />
-  </a>
-</p>
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-## Pop Design
 
-A visually appealing Pop Design component created using HTML, CSS, and JavaScript. This design can be used to display pop-up messages, notifications, or other content in a stylish and responsive manner.
+## 
+
+
 
 ## Features
 
-- A pop-up design that appears smoothly on user interaction.
-- Customizable content within the pop-up.
+- 
+- 
 - Responsive and adaptable to different screen sizes.
 - Easy to close or dismiss with a close button.
 - Can be triggered by a button or other events.
@@ -161,13 +155,5 @@ cd pop-design
 open index.html
 ```
 
-## Author
 
-Akash Chandra Verma \
-LinkedIn: https://www.linkedin.com/in/akashchandraverma/
 
-## Thank You
-
-Thank you for exploring the Pop-Design! Your feedback is valuable. If you have any suggestions or thoughts, feel free to share them with us. 😊
-
----
