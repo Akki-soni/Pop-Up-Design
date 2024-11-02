@@ -35,18 +35,22 @@
 
 ## 🚀 How to Use
 
-- **Add a Note**: Use the input fields to enter a title and content for your note, then click the "Add Note" button.
-- **View Notes**: The list of notes is displayed below the input fields.
-- **Edit a Note**: Click the "Edit" button on an existing note, update the title or content, and save the changes.
-- **Delete a Note**: Click the "Delete" button on an existing note to remove it from the list.
+- **Trigger the pop-up by clicking a button or based on a JavaScript event.**
+- **The pop-up will appear on the screen with the content.**
+- **Close the pop-up by clicking the close button or an outside area (if applicable).**
+
+## 🚀 Customization
+
+- You can customize the content and style of the pop-up via the HTML and CSS files.
+- JavaScript allows you to modify how and when the pop-up appears, as well as add additional functionalities.
 
 ## 🚀 Project Setup
 
 No external dependencies are required. Just clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone <https://github.com/Akki-soni/Notes-App-main.git>
-cd Notes App
+git clone <https://github.com/Akki-soni/Pop-Up-Design.git>
+cd pop-design
 open index.html
 ```
 
@@ -57,12 +61,6 @@ open index.html
 ├── style.css   # The CSS file for styling
 └── script.js  # The JavaScript file for functionality
 ```
-
-## 🚀 Future Improvements
-
-- ***Add a search functionality to filter through notes.***
-- ***Implement categories or tags for notes organization.***
-- ***Sync notes with a backend server for cross-device access.***
 
 
 ## 🌟 Screenshots
@@ -106,24 +104,16 @@ Thank you for exploring the StopWatch! Your feedback is valuable. If you have an
 
 
 
-## How to Use
 
-1. Trigger the pop-up by clicking a button or based on a JavaScript event.
-2. The pop-up will appear on the screen with the content.
-3. Close the pop-up by clicking the close button or an outside area (if applicable).
 
-## Customization
-
-- You can customize the content and style of the pop-up via the HTML and CSS files.
-- JavaScript allows you to modify how and when the pop-up appears, as well as add additional functionalities.
 
 ## Project Setup
 
 No external dependencies are required. Clone the repository and open the `index.html` file in any modern web browser.
 
 ```bash
-git clone https://github.com/Akki-soni/Pop-Up-Design.git
-cd pop-design
+git clone 
+cd 
 open index.html
 ```
 
