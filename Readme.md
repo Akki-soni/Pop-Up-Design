@@ -29,9 +29,9 @@
 
 ## 🛠️ Technologies Used
 
-- **HTML**: Markup structure for the app.
-- **CSS**: Styling and layout of the app.
-- **JavaScript**: Functionality to add, edit, delete, and store notes using local storage.
+- **HTML**: For structuring the pop-up and main page layout.
+- **CSS**: For designing the appearance of the pop-up and adding animations.
+- **JavaScript**: For handling the triggering and dismissal of the pop-up.
 
 ## 🚀 How to Use
 
@@ -105,20 +105,6 @@ Thank you for exploring the StopWatch! Your feedback is valuable. If you have an
 
 
 
-
-
-
-
-
-
-
-
-
-## Technologies Used
-
-- **HTML**: For structuring the pop-up and main page layout.
-- **CSS**: For designing the appearance of the pop-up and adding animations.
-- **JavaScript**: For handling the triggering and dismissal of the pop-up.
 
 ## How to Use
 
