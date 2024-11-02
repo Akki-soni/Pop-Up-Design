@@ -64,11 +64,11 @@ open index.html
 
 ## 🌟 Screenshots
 
-![StopWatch Screenshot](/images/NA_Screenshot.png)
+![StopWatch Screenshot](/image/PopUp_Screenshot.png)
 
 ## 🔗 Live Demo
 
-[View Live Demo](https://notes-app-main-eight.vercel.app/)
+[View Live Demo](https://pop-up-design.vercel.app/)
 
 ## 🤝 Contributing
 
