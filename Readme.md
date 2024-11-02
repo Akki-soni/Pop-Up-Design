@@ -23,9 +23,9 @@
 
 - ***A pop-up design that appears smoothly on user interaction.***
 - ***Customizable content within the pop-up.***
-- ******
-- ******
-- ******
+- ***Responsive and adaptable to different screen sizes.***
+- ***Easy to close or dismiss with a close button.***
+- ***Can be triggered by a button or other events.***
 
 ## 🛠️ Technologies Used
 
@@ -113,20 +113,6 @@ Thank you for exploring the StopWatch! Your feedback is valuable. If you have an
 
 
 
-
-
-
-## 
-
-
-
-## Features
-
-- 
-- 
-- Responsive and adaptable to different screen sizes.
-- Easy to close or dismiss with a close button.
-- Can be triggered by a button or other events.
 
 ## Technologies Used
 
